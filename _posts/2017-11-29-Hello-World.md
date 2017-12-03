@@ -4,7 +4,7 @@ title:      Hello World
 subtitle:   
 date:       2017-11-29
 author:     Daryl
-header-img: img/mountain.jpg
+header-img: img/dust.jpg
 catalog: true
 tags:
     - diary
