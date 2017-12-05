@@ -7,7 +7,7 @@ author:     Daryl
 header-img: img/dust.jpg
 catalog: true
 tags:
-    - diary
+    - journal
 ---
 
 ## Hello World!
